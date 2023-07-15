@@ -1,4 +1,2 @@
 # Edureka_DevOps_Project
-Project Statement 1 
-jjyjf
-
+Project Statement 1
